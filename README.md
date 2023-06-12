@@ -23,4 +23,4 @@ We welcome contributions to this project. Feel free to open a pull request with 
 # 📝 License
 All scripts in this repository are released under the MIT License.
 
-Let's make Bash Scripting fun and easy! 😎
+Let's make Bash Scripting fun and easy!😎
